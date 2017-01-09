@@ -1,0 +1,4 @@
+
+<div>
+    {$tekst}
+</div>
